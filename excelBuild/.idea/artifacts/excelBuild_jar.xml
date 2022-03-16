@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="excelBuild:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/excelBuild_jar</output-path>
+    <root id="archive" name="excelBuild.jar">
+      <element id="module-output" name="excelBuild" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/lib/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/lib/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/log4j-core-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/poi-ooxml-full-5.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/ooxml-lib/commons-compress-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/lib/log4j-api-2.17.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/httpcore-4.4.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/ooxml-lib/xmlbeans-5.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/jsoup-1.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/poi-ooxml-5.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/poi-bin-5.2.1/poi-5.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workutils/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

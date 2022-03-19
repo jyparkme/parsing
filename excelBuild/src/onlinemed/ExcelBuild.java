@@ -15,12 +15,12 @@ public class ExcelBuild {
     private Map<Integer, String> idList = new HashMap<>();
 
     public void setIds() {
-        idList.put(0, "omca36");
-        idList.put(1, "omca34");
-        idList.put(2, "omca35");
-        idList.put(3, "omch33");
-        idList.put(4, "omcf09");
-        idList.put(5, "omcb05");
+        idList.put(0, "본원");
+        idList.put(1, "여의도");
+        idList.put(2, "강남");
+        idList.put(3, "수원");
+        idList.put(4, "대구");
+        idList.put(5, "부산");
         idList.put(6, "omcg23");
     }
 

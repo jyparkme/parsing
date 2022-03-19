@@ -21,7 +21,7 @@ public class ExcelBuild {
         idList.put(3, "수원");
         idList.put(4, "대구");
         idList.put(5, "부산");
-        idList.put(6, "omcg23");
+        idList.put(6, "광주");
     }
 
     private String mainUrl = "http://hospital.onlinemed.co.kr/";

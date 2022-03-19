@@ -30,13 +30,13 @@ public class ExcelDown {
 
     public String findId(int idNum) {
         List<String> ids = new ArrayList<>();
-        ids.add("omca36");
-        ids.add("omca34");
-        ids.add("omca35");
-        ids.add("omch33");
-        ids.add("omcf09");
-        ids.add("omcb05");
-        ids.add("omcg23");
+        ids.add("본원");
+        ids.add("여의도");
+        ids.add("강남");
+        ids.add("수원");
+        ids.add("대구");
+        ids.add("부산");
+        ids.add("광주");
 
         return ids.get(idNum);
     }
